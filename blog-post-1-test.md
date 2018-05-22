@@ -1,5 +1,5 @@
-#Blog Post 1
+# Blog Post 1
 
 
-##The Data
+## The Data
 This is a test to make sure I understand how this is actually working. 
